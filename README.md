@@ -1,4 +1,4 @@
-# Engenharia de Software III
+# Engenharia de Software
 
 Teste - JS/Node/Express
 
@@ -25,9 +25,6 @@ Teste - JS/Node/Express
 3️⃣ Execute a switch de testes sempre que queira validar sua funcionalidade
 
 ``npm run test``
-
-## Entrega 🚚
-Para realizar a entrega do teste, preencha o [formulário](https://forms.gle/z6ZxCcg7KJKzdmS27).
 
 ## Documentação 📝
 
